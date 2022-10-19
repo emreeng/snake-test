@@ -1,6 +1,6 @@
 # Browser "Snake" game
 "Snake" game created using javascript.
 
-Play using arrow keys.
+Bi tuşa bas gardaşş
 
 #### [Demo](https://helix-software.ro/demo/simple-snake-game/)
